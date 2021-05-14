@@ -1,0 +1,12 @@
+{
+  "name": "WebView",
+  "displayName": "WebView",
+  "expo": {
+    "name": "WebView",
+    "slug": "WebView",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
